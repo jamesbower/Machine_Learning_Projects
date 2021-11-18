@@ -1,2 +1,3 @@
-# Machine_Learning_Projects
-This repository contains various machine learning projects along with the code I've used to complete them.
+# Machine Learning Projects
+This repository contains various projects in machine learning I've completed along with the corresponding code and data files.
+Go to the projects folder and see each readme for detailed instructions.
